@@ -4,10 +4,6 @@
 
 <sub>Mockup of the theme's colors, not an actual screenshot of the app.</sub>
 
-**In the app:**
-
-![Aurora theme in the Claude desktop app](docs/in-app.png)
-
 A Claude look built from the Aurora design tokens. Dark mode uses violet-tinted night surfaces; light mode uses lilac paper. The chat area gets the Aurora corner wash (pink, violet and cyan glows) and a 2px glow line along the top edge.
 
 Switch the accent with `/aurora <aurora | purple | green | orange | pink | teal>` (remembered across sessions); `/aurora` alone shows the current one. Code colors follow the token guide: keywords use the accent, strings `--ok`, names `--danger`, variables `--warn`, literals `--hl-cyan`.
