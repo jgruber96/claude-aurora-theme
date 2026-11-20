@@ -1,8 +1,14 @@
 # Aurora theme
 
+**Dark mode**
+
 ![Aurora theme mockup: dark mode with the default aurora accent](docs/screenshot.png)
 
-<sub>Mockup of the theme's colors, not an actual screenshot of the app.</sub>
+**Light mode**
+
+![Aurora theme mockup: light mode with the default aurora accent](docs/screenshot-light.png)
+
+<sub>Mockups of the theme's colors, not actual screenshots of the app.</sub>
 
 A Claude look built from the Aurora design tokens. Dark mode uses violet-tinted night surfaces; light mode uses lilac paper. The chat area gets the Aurora corner wash (pink, violet and cyan glows) and a 2px glow line along the top edge.
 
