@@ -1,0 +1,16 @@
+{
+  "name": "aurora-theme",
+  "version": "0.1.0",
+  "author": { "name": "jgruber96" },
+  "license": "MIT",
+  "description": "Aurora look for Claude: violet-tinted night and lilac day, with a soft corner glow and six accent presets.",
+  "userConfig": {
+    "accent": {
+      "type": "string",
+      "title": "Aurora accent",
+      "description": "Accent color and glow preset",
+      "default": "aurora",
+      "options": ["aurora", "purple", "green", "orange", "pink", "teal"]
+    }
+  }
+}

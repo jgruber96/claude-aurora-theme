@@ -1,0 +1,5 @@
+{
+  "name": "claude-aurora-theme",
+  "owner": { "name": "jgruber96" },
+  "plugins": [{ "name": "aurora-theme", "source": "./" }]
+}
